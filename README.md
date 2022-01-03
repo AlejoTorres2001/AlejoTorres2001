@@ -3,29 +3,35 @@
 
 ## I'm a FullStack Developer, and Coding Tutor!!
 
-- 🚀Currently in college: Science in Computer Engineering
+- 🚀 College student: Science in Computer Engineering
 - 🌱 I’m currently learning Next.js in depth
 - 👯 I’m looking to collaborate with other Devs
 - 🥅 2022 Goals: Contribute more to Open Source projects / Master Web 3.0 development 
 - ⚡ Fun fact: Cat Lover / occasionally I play the drums
 
+
 ### Connect with me:
 
-<img  alt="https://react-ssr-personal-portfolio.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
-<img  alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
-<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-<img  alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
+<br />
+
+[<img  alt="https://react-ssr-personal-portfolio.vercel.app/" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img  alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img  alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img  alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
 ### Frameworks,Tools and Technologies I use:
+<br />
 
-
+<p float="left">
 <img  alt="HTML5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img  alt="CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img  alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img  alt="Git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img  alt="GitHub"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
 
 <br />
 <br />
@@ -99,17 +105,17 @@
 <img alt=".net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img alt="Nuget" src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
-
+<p/>
 ---
 ### My Github Stats:
 
 
-!My Github Stats(https://github-readme-stats.vercel.app/api?username=AlejoTorres2001&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoTorres2001&show_icons=true&count_private=true)
 
 
 
 
-website: https://react-ssr-personal-portfolio.vercel.app/
-linkedin: https://www.linkedin.com/in/alejo-torres-919b9921b/
-twitter: https://twitter.com/alejotorres2001
-instagram: https://instagram.com/alejootorres
+[website]: https://react-ssr-personal-portfolio.vercel.app/
+[linkedin]: https://www.linkedin.com/in/alejo-torres-919b9921b/
+[twitter]: https://twitter.com/alejotorres2001
+[instagram]: https://instagram.com/alejootorres
