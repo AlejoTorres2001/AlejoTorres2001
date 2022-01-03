@@ -11,10 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://react-ssr-personal-portfolio.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -30,6 +26,10 @@
 [<img align="left" alt="React" width="60px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]
 [<img align="left" alt="Tailwind" width="60px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />]
 [<img align="left" alt="GraphQL" width="60px" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />]
+
+<br />
+<br />
+
 [<img align="left" alt="Node.js" width="60px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />]
 [<img align="left" alt="Deno" width="60px" src="https://img.shields.io/badge/Deno-464647?style=for-the-badge&logo=deno&logoColor=white" />]
 [<img align="left" alt="SQL" width="60px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />]
