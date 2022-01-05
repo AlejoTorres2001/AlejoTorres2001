@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Next.js in depth
 - 👯 I’m looking to collaborate with other Devs
 - 🥅 2022 Goals: Contribute more to Open Source projects / Master Web 3.0 development 
-- ⚡ Fun fact: Cat Lover / occasionally I play the drums
+- ⚡ Fun fact: Cat Lover / occasionally play the drums
 
 
 ### Connect with me:
