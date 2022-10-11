@@ -4,7 +4,7 @@
 ## I'm a FullStack Developer, and Coding Tutor!!
 
 - 🚀 College student: Science in Computer Engineering
-- 🌱 I’m currently learning Redux Toolkit in depth
+- 🌱 I’m currently learning Reactive Programming with RxJs
 - 👯 I’m looking to collaborate with other Devs
 - 🥅 2022 Goals: Contribute more to Open Source projects / Master Web 3.0 development 
 - ⚡ Fun fact: Cat Lover / occasionally play the drums
