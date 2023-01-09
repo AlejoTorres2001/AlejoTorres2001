@@ -15,7 +15,7 @@
 <br />
 <p align="center">
 
-[<img  alt="https://react-ssr-personal-portfolio.vercel.app/" width="40px" src="https://cdn-icons-png.flaticon.com/128/865/865051.png" />][website]
+[<img  alt="https://www.alejo-torres.com/" width="40px" src="https://cdn-icons-png.flaticon.com/128/865/865051.png" />][website]
 [<img  alt="Twitter" width="40px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img  alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img  alt="Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
@@ -194,7 +194,7 @@
   
 ![image](https://user-images.githubusercontent.com/80418452/174444164-87c6386e-64af-4b18-bf74-fc27eb0a2efd.png)
 
-[website]: https://react-ssr-personal-portfolio.vercel.app/
+[website]: https://www.alejo-torres.com/
 [linkedin]: https://www.linkedin.com/in/alejo-torres-919b9921b/
 [twitter]: https://twitter.com/alejotorres2001
 [instagram]: https://instagram.com/alejootorres
