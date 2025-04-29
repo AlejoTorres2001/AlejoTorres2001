@@ -1,13 +1,13 @@
 
 ### Hi there, I'm Alejo - 👋 
 
-## I'm a FullStack Developer, and Coding Tutor!!
+## Sr. SWE and Tech Leader
 
-- 🚀 College student: Science in Computer Engineering
-- 🌱 I’m currently learning Microservices architecture
-- 👯 I’m looking to collaborate with other Devs
-- 🥅 2022 Goals: Contribute more to Open Source projects / Become a React wizard
-- ⚡ Fun fact: Cat Lover / occasionally play the drums
+- 🎓 B.S. Computer Engineering, AI Engineering (UPM SMILE Scholarship)
+- 🌱 Currently Learning: Deep dive into Go for high-performance backend services
+- 🤝 Open to mentoring and partnering on full-stack projects
+- 🥅 2025 Goals: Master Advanced Golang patterns
+- ⚡ Fun fact: Cat Lover / Fly Fisherman
 
 
 ### Connect with me ☕:
@@ -15,7 +15,7 @@
 <br />
 <p align="center">
 
-[<img  alt="https://www.alejo-torres.com/" width="40px" src="https://cdn-icons-png.flaticon.com/128/865/865051.png" />][website]
+[<img  alt="https://towers.solutions" width="40px" src="https://cdn-icons-png.flaticon.com/128/865/865051.png" />][website]
 [<img  alt="Twitter" width="40px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" />][twitter]
 [<img  alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img  alt="Instagram" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
@@ -78,7 +78,11 @@
 <img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
 <img alt="Fastify" src="https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white"/>
 
+<br />
+<br />
 
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 <br />
 <br />
@@ -153,17 +157,12 @@
 
 
 <a><h2>My Github Stats 📊 </h2></a>
-<div>
+<div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=AlejoTorres2001&theme=react&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejoTorres2001&theme=react&hide_border=true"/>
-    </a>
   </div>
-  
-  </br>
-  
+
   ![image](https://user-images.githubusercontent.com/80418452/174444164-87c6386e-64af-4b18-bf74-fc27eb0a2efd.png)
 
 
@@ -185,7 +184,6 @@
 <p/>
 
 
-
 <div>
     <a><h2>Trophies 🏆</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -194,7 +192,7 @@
   
 ![image](https://user-images.githubusercontent.com/80418452/174444164-87c6386e-64af-4b18-bf74-fc27eb0a2efd.png)
 
-[website]: https://www.alejo-torres.com/
+[website]: https://towers.solutions
 [linkedin]: https://www.linkedin.com/in/alejo-torres-919b9921b/
 [twitter]: https://twitter.com/alejotorres2001
 [instagram]: https://instagram.com/alejootorres
