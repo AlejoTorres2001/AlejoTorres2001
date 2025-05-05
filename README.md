@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Alejo - 👋 
 
-## Sr. SWE and Tech Leader
+## Ssr. Software Engineer and Tech Leader
 
 - 🎓 B.S. Computer Engineering, AI Engineering (UPM SMILE Scholarship)
 - 🌱 Currently Learning: Deep dive into Go for high-performance backend services
